@@ -48,4 +48,4 @@ if st.button("Decipher Topic", type="primary"):
         st.warning("Please enter a topic first!")
 
 st.divider()
-st.markdown("**Developed by:** Arjun & Team | Vishwanova Hackathon 🚀")
+st.markdown("**Developed by:** Fuled by caffien | Vishwanova Hackathon 🚀")
